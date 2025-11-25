@@ -1,0 +1,15 @@
+M:\Coding\C#\BeginningCSharp\bin\Debug\net9.0\BeginningCSharp.exe
+M:\Coding\C#\BeginningCSharp\bin\Debug\net9.0\BeginningCSharp.deps.json
+M:\Coding\C#\BeginningCSharp\bin\Debug\net9.0\BeginningCSharp.runtimeconfig.json
+M:\Coding\C#\BeginningCSharp\bin\Debug\net9.0\BeginningCSharp.dll
+M:\Coding\C#\BeginningCSharp\bin\Debug\net9.0\BeginningCSharp.pdb
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.GeneratedMSBuildEditorConfig.editorconfig
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.AssemblyInfoInputs.cache
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.AssemblyInfo.cs
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.csproj.CoreCompileInputs.cache
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.sourcelink.json
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.dll
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\refint\BeginningCSharp.dll
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.pdb
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\BeginningCSharp.genruntimeconfig.cache
+M:\Coding\C#\BeginningCSharp\obj\Debug\net9.0\ref\BeginningCSharp.dll
